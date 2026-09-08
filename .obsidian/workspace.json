@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "picoctf/web-exploitation/easy/SSTI1/README.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "README"
@@ -190,19 +190,21 @@
   },
   "active": "1ba2b28b98316874",
   "lastOpenFiles": [
-    "picoctf/web-exploitation/easy/SSTI1/Pasted image 20260908190351.png",
-    "picoctf/web-exploitation/easy/SSTI1/Pasted image 20260908190103.png",
+    "desktop.ini",
+    "().md",
     "picoctf/web-exploitation/easy/SSTI1/README.md",
-    "picoctf/web-exploitation/easy/SSTI1/Pasted image 20260908185709.png",
-    "picoctf/web-exploitation/easy/SSTI1",
-    "picoctf/web-exploitation/easy/SSTI1/Pasted image 20260908185255.png",
+    "picoctf/web-exploitation/easy/SSTI1/assets/trial-3.png",
+    "picoctf/web-exploitation/easy/SSTI1/assets/flag.png",
+    "picoctf/web-exploitation/easy/SSTI1/assets/clue.png",
+    "picoctf/web-exploitation/easy/SSTI1/assets/root.png",
+    "picoctf/web-exploitation/easy/SSTI1/assets/result-2.png",
+    "picoctf/web-exploitation/easy/SSTI1/assets/result-1.png",
+    "picoctf/web-exploitation/easy/SSTI1/assets/result.png",
+    "picoctf/web-exploitation/easy/SSTI1/assets/trial-2.png",
+    "picoctf/web-exploitation/easy/SSTI1/assets/trial-1.png",
+    "picoctf/web-exploitation/easy/SSTI1/assets/html-cource.png",
     "Untitled.base",
     "picoctf/web-exploitation/easy/Old Sessions.md",
-    "picoctf/web-exploitation/assets/Pasted image 20260729153630.png",
-    "picoctf/web-exploitation/assets/Pasted image 20260729153603.png",
-    "picoctf/web-exploitation/assets/Pasted image 20260729153513.png",
-    "picoctf/web-exploitation/assets/Pasted image 20260729153419.png",
-    "picoctf/web-exploitation/assets/Pasted image 20260729153352.png",
-    "picoctf/web-exploitation/assets/Pasted image 20260729153254.png"
+    "picoctf/web-exploitation/easy/SSTI1"
   ]
 }
