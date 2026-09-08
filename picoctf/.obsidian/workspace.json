@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "f0b234237dd2fd96",
+    "type": "split",
+    "children": [
+      {
+        "id": "1811afcb66ab0073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a5b2773e54c44e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web-exploitation/easy/SSTI1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SSTI1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "122e85928996a743",
+    "type": "split",
+    "children": [
+      {
+        "id": "efdd75cfee97e3af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50482d7866c00b03",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f819b2856c1899a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0819592591eb0933",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aebd9686ee8be392",
+    "type": "split",
+    "children": [
+      {
+        "id": "b506888b3b385b88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00c282bd8973df31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "web-exploitation/easy/Old Sessions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Old Sessions"
+            }
+          },
+          {
+            "id": "de3f9d27b45ed76b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "web-exploitation/easy/Old Sessions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Old Sessions"
+            }
+          },
+          {
+            "id": "4bed9d5ea4e91650",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8e549e80b06c5072",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1fba010bc00365f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "web-exploitation/easy/Old Sessions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Old Sessions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9a5b2773e54c44e0",
+  "lastOpenFiles": [
+    "web-exploitation/assets/Pasted image 20260906170258.png",
+    "web-exploitation/assets/Pasted image 20260906170216.png",
+    "web-exploitation/assets/Pasted image 20260906170212.png",
+    "web-exploitation/assets/Pasted image 20260906170111.png",
+    "web-exploitation/assets/Pasted image 20260906170029.png",
+    "web-exploitation/assets/Pasted image 20260906164333.png",
+    "web-exploitation/assets/Pasted image 20260906164141.png",
+    "web-exploitation/easy/Old Sessions.md",
+    "web-exploitation/easy/SSTI1.md",
+    "desktop.ini",
+    "web-exploitation/assets/Pasted image 20260729154507.png",
+    "web-exploitation/assets/Pasted image 20260729154416.png",
+    "web-exploitation/assets/Pasted image 20260729154222.png",
+    "web-exploitation/assets/Pasted image 20260729154116.png",
+    "web-exploitation/assets",
+    "Untitled.md",
+    "web-exploitation/easy",
+    "Welcome.md",
+    "web-exploitation"
+  ]
+}
